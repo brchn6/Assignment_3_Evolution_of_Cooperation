@@ -22,7 +22,7 @@ I expect this strategy to perform well across different opponents because it bal
 exploitation resistance with cooperative potential, and its adaptive nature allows it 
 to calibrate its approach based on the specific opponent it faces.
 
-Author: [Your Name]
+Author: BC
 """
 
 def strategy(my_history, opponent_history):
